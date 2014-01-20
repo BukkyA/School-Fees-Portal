@@ -1,0 +1,30 @@
+.e-portal-nav {
+  text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+  background-color: #15263F;
+  border-color: #24406B;
+  box-shadow: 0 1px 0 rgba(255,255,255,.1);
+}
+.e-portal-nav .navbar-collapse {
+  border-color: #24406B;
+}
+.e-portal-nav .navbar-brand {
+  color: #fff;
+}
+.e-portal-nav .navbar-nav > li > a {
+  color: #FCE653;
+}
+.e-portal-nav .navbar-nav > li > a:hover {
+  color: #fff;
+}
+.e-portal-nav .navbar-nav > .active > a,
+.e-portal-nav .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: #24406B;
+}
+.e-portal-nav .navbar-toggle {
+  border-color: #15263F;
+}
+.e-portal-nav .navbar-toggle:hover {
+  background-color: #24406B;
+  border-color: #24406B;
+}
